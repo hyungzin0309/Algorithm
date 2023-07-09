@@ -1,0 +1,19 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÐÁ¨¯ÿÿÿÿÿ8úÎ­É‹1
+L
+java:S3740A"/Provide the parametrized type for this generic.(³Œ×·8ûÎ­É‹1
+e
+java:S1192	"HDefine a constant instead of duplicating this literal "diamond" 7 times.(¾ï‰ê8ûÎ­É‹1
+m
+java:S1301`"KReplace this "switch" statement by "if" statements to increase readability.(Áö¥‡ûÿÿÿÿ8üÎ­É‹1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÑÚ©øÿÿÿÿ8ýÎ­É‹1
+A
+java:S1640"Convert this Map to an EnumMap.(òƒ¨†þÿÿÿÿ8ýÎ­É‹1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ù–Éˆúÿÿÿÿ8³Ï­É‹1
+a
+java:S1854"?Remove this useless assignment to local variable "sectionItem".(–Îá²þÿÿÿÿ8³Ï­É‹1
+R
+java:S1481"0Remove this unused "sectionItem" local variable.(–Îá²þÿÿÿÿ8µÏ­É‹1
+v
+java:S1210J"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8¸Ï­É‹1
