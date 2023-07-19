@@ -1,4 +1,4 @@
-package inflearn.nine.원더랜드_최소스패닝트리_카루스칼;
+package inflearn.nine.원더랜드_최소스패닝트리_크루스칼;
 import java.util.*;
 public class Main {
 
