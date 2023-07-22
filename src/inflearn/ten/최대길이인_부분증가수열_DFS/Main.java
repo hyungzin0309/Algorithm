@@ -1,4 +1,4 @@
-package inflearn.ten.최대길이인_부분증가수열;
+package inflearn.ten.최대길이인_부분증가수열_DFS;
 import java.util.*;
 
 public class Main {
