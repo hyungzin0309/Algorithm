@@ -37,19 +37,19 @@ public class Main {
         for(int i = 0; i<height; i++){
             for(int j = 0; j< width; j++){
                 if(map[i][j] == 1){
-                    bfs(i, j);
+                    dfs(i, j);
                     result++;
                 }
             }
         }
     }
 
-    static void bfs(int y, int x){
+    static void dfs(int y, int x){
         map[y][x] = 0;
-        if(y != 0 && map[y-1][x] == 1) bfs(y-1, x);
-        if(x != 0 && map[y][x-1] == 1) bfs(y, x-1);
-        if(y != height-1 && map[y+1][x] == 1) bfs(y+1, x);
-        if(x != width-1 && map[y][x+1] == 1) bfs(y, x+1);
+        if(y != 0 && map[y-1][x] == 1) dfs(y-1, x);
+        if(x != 0 && map[y][x-1] == 1) dfs(y, x-1);
+        if(y != height-1 && map[y+1][x] == 1) dfs(y+1, x);
+        if(x != width-1 && map[y][x+1] == 1) dfs(y, x+1);
     }
 
 }
