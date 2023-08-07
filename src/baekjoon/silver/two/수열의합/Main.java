@@ -1,8 +1,6 @@
 package baekjoon.silver.two.수열의합;
 
 import java.io.*;
-import java.util.LinkedList;
-import java.util.Queue;
 
 public class Main {
 
