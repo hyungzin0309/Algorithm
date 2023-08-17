@@ -1,4 +1,4 @@
-package baekjoon.class_.class2.좌표정렬;
+package baekjoon.class_.class2.좌표_정렬;
 
 import java.io.*;
 import java.util.*;
